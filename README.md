@@ -1,4 +1,4 @@
-# LPTW
+# LTW
 
 Guida per visualizzare sito{  
     Aprire pgAdmin -> info server nel file php/server.txt  
