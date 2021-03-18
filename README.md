@@ -1,9 +1,9 @@
 # LPTW
 
-Guida per visualizzare sito{
-    Aprire pgAdmin -> info server nel file php/server.txt
-    Aprire VSCode
-    Lanciare PHP Server: Serve Project
+Guida per visualizzare sito{  
+    Aprire pgAdmin -> info server nel file php/server.txt  
+    Aprire VSCode  
+    Lanciare PHP Server: Serve Project  
 }
 
 Guida ai contenuti -> Per ogni pagina vengono elencati file e\o directory usate
